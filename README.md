@@ -56,6 +56,17 @@ This procedure applies to the MITT Final Assignment project. The scope includes:
 * Maintain food safety standards (Internal temp ≥ 165°F).
 
 ---
+五花肉 (Pork Belly)	1500g (1.5 kg)	切成 2-3 cm 方块
+生姜 (Ginger)	50g	切片 (Sliced)
+大葱 (Scallion)	3-4 根	打结或切段 (Tied or sectioned)
+冰糖 (Rock Sugar)	60g - 80g	用于上色 (For caramelizing)
+生抽 (Light Soy Sauce)	60ml	提供咸鲜味 (For saltiness)
+老抽 (Dark Soy Sauce)	20ml - 30ml	提供酱红色 (For color)
+料酒 (Cooking Wine)	50ml	去腥 (For removing odor)
+八角 (Star Anise)	1 个	增香 (Aromatics)
+桂皮 (Cinnamon Stick)	1 根	增香 (Aromatics)
+热水 (Hot Water)适量需完全没过肉块
+
 
 ## 5. Accountability Matrix
 
@@ -80,7 +91,7 @@ This procedure applies to the MITT Final Assignment project. The scope includes:
 ---
 ### Step 1: Blanching (Cleaning the Meat)
   1. Put the pork cubes into a pot with cold water.
-  2. Add 2 slices of ginger and 1 tbsp of cooking wine.
+  2. Add 50g of 2 slices of ginger. and 50ml cooking wine.
   3. Bring to a boil, then simmer for 2 minutes to remove impurities.
   4. Drain and rinse the pork with warm water. Pat dry.
 
@@ -90,13 +101,13 @@ This procedure applies to the MITT Final Assignment project. The scope includes:
   * Note: Remove excess oil if the pan becomes too greasy.
   
 ### Step 3: Caramelizing (The Color Base)
-  1. Push the meat to the side. Add a small amount of oil and the rock sugar.
+  1. Push the meat to the side. Add a small amount of oil and 60g rock sugar.
   2. Melt the sugar on low heat until it turns a light amber color.
   3. Stir the pork back in to coat every piece with the melted sugar.
 
 ### Step 4: Braising (Slow Cooking)
-  1. Add the aromatics (ginger, scallions, star anise, cinnamon).
-  2. Add 1 tbsp dark soy sauce (for color) and 2 tbsp light soy sauce (for salt).
+  1. Add the aromatics (50g ginger, 3-4 scallions, 1 star anise, 1 cinnamon).
+  2. Add 20ml dark soy sauce (for color) and 60ml light soy sauce (for salt).
   3. Pour in boiling water until the meat is just submerged.
   4. Cover with a lid. Reduce heat to low and simmer for 45–60 minutes.
   
