@@ -83,11 +83,30 @@ This procedure applies to the MITT Final Assignment project. The scope includes:
 
 > *This section is to be completed by Team Members B, C, and D.*
 
-### Step 1: Ingredient Selection
-* **Description:** Select high-quality pork belly with distinct layers of fat and lean meat.
-* **Why:** Layered meat provides the signature "melt-in-mouth" texture.
-* **Tools:** Digital scale, chef's knife.
+## 6.1 Material Standards and Ingredient Preparation (Lead: Dongjun Li)
+**Scope:** This stage focuses on raw material inspection, precision cutting, and the "Mise en Place" (preparation of all seasonings) before any thermal processing begins.
 
+### 6.1.1 Raw Material Selection
+The quality of the final dish depends on the initial selection of the pork.
+*   **Pork Belly Selection:** Select 500g of fresh pork belly with at least five distinct layers of fat and lean meat. This specific structure is **essential because** the alternating fat layers provide the necessary oil for the "Searing" stage, while the lean meat absorbs the flavors during braising.
+*   **Inspection Tool:** Digital kitchen scale (Accuracy: ±1g).
+
+### 6.1.2 Pre-treatment Procedures
+
+**Step 1: Precision Meat Cubing**
+Place the raw pork belly on a **heavy-duty cutting board** and use a **sharp chef’s knife** to cut it into uniform 2cm x 2cm cubes. This standardization is **critical because** it allows for even heat distribution in the subsequent "Blanching" and "Braising" steps. Maintaining uniform size ensures that all pieces reach the target internal temperature of 165°F simultaneously.
+
+> *Figure 1: Preparing 500g of pork belly into uniform 2cm cubes.*
+
+**Step 2: Aromatic and Spice Preparation (Mise en Place)**
+Wash and prepare the following aromatics: slice 50g of ginger, tie 3-4 scallions into a knot, and select 1 whole star anise and 1 cinnamon stick. Pre-cutting the ginger and knotting the scallions is **important because** it maximizes the surface area for flavor release when the Process Lead adds them to the pot later. 
+
+> *Figure 2: The prepared aromatics tray (ginger, scallions, star anise, cinnamon) ready for cooking.*
+
+**Step 3: Measuring Liquid and Solid Seasonings**
+Accurately measure 60g of rock sugar, 50ml of cooking wine, and the required soy sauce using **graduated measuring cups and a scale**. Having these measured in advance is a **vital safety and quality control step** as it prevents the Process Lead from burning the sugar or spices while searching for ingredients during the high-heat "Caramelizing" phase.
+
+> *Figure 3: All measured seasonings organized for a seamless handoff to the Process Lead.*
 ---
 ### Step 1: Blanching (Cleaning the Meat)
   1. Put the pork cubes into a pot with cold water.
