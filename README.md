@@ -79,31 +79,31 @@ This procedure applies to the MITT Final Assignment project. The scope includes:
 
 ---
 ### Step 1: Blanching (Cleaning the Meat)
-  Put the pork cubes into a pot with cold water.
-  Add 2 slices of ginger and 1 tbsp of cooking wine.
-  Bring to a boil, then simmer for 2 minutes to remove impurities.
-  Drain and rinse the pork with warm water. Pat dry.
+  1. Put the pork cubes into a pot with cold water.
+  2. Add 2 slices of ginger and 1 tbsp of cooking wine.
+  3. Bring to a boil, then simmer for 2 minutes to remove impurities.
+  4. Drain and rinse the pork with warm water. Pat dry.
 
 ### Step 2: Searing (Rendering Fat)
-  Place the pork in a dry wok over medium heat.
-  Sear until the sides are golden brown and the natural fat starts to melt (render out).
-  Note: Remove excess oil if the pan becomes too greasy.
+  1. Place the pork in a dry wok over medium heat.
+  2. Sear until the sides are golden brown and the natural fat starts to melt (render out).
+  * Note: Remove excess oil if the pan becomes too greasy.
   
 ### Step 3: Caramelizing (The Color Base)
-  Push the meat to the side. Add a small amount of oil and the rock sugar.
-  Melt the sugar on low heat until it turns a light amber color.
-  Stir the pork back in to coat every piece with the melted sugar.
+  1. Push the meat to the side. Add a small amount of oil and the rock sugar.
+  2. Melt the sugar on low heat until it turns a light amber color.
+  3. Stir the pork back in to coat every piece with the melted sugar.
 
 ### Step 4: Braising (Slow Cooking)
-  Add the aromatics (ginger, scallions, star anise, cinnamon).
-  Add 1 tbsp dark soy sauce (for color) and 2 tbsp light soy sauce (for salt).
-  Pour in boiling water until the meat is just submerged.
-  Cover with a lid. Reduce heat to low and simmer for 45–60 minutes.
+  1. Add the aromatics (ginger, scallions, star anise, cinnamon).
+  2. Add 1 tbsp dark soy sauce (for color) and 2 tbsp light soy sauce (for salt).
+  3. Pour in boiling water until the meat is just submerged.
+  4. Cover with a lid. Reduce heat to low and simmer for 45–60 minutes.
   
 ### Step 5: Reduction (The Glaze)
-   Remove the lid and discard the large aromatics (ginger/scallions).
-   Turn the heat to high to reduce the sauce.
-   Stir constantly until the sauce thickens into a shiny glaze that coats the meat.
+  1. Remove the lid and discard the large aromatics (ginger/scallions).
+  2. Turn the heat to high to reduce the sauce.
+  3. Stir constantly until the sauce thickens into a shiny glaze that coats the meat.
    
 ## 7. Revision History
 
