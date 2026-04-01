@@ -21,6 +21,7 @@
 | :--- | :--- | :--- | :--- |
 | **Prepared by** | Jie Zhuang | _Signed_ | 2026-03-31 |
 | **Prepared by** | Qianyi Wen | _Signed_ | 2026-04-1 |
+| **Prepared by** | Dongjun Li | _Signed_ | 2026-04-1 |
 | **Reviewed by** | Yuwen Nie | | 2026-04-01 |
 | **Approved by** | [Insert Instructor] | | |
 
@@ -56,17 +57,6 @@ This procedure applies to the MITT Final Assignment project. The scope includes:
 * Maintain food safety standards (Internal temp ≥ 165°F).
 
 ---
-五花肉 (Pork Belly)	1500g (1.5 kg)	切成 2-3 cm 方块
-生姜 (Ginger)	50g	切片 (Sliced)
-大葱 (Scallion)	3-4 根	打结或切段 (Tied or sectioned)
-冰糖 (Rock Sugar)	60g - 80g	用于上色 (For caramelizing)
-生抽 (Light Soy Sauce)	60ml	提供咸鲜味 (For saltiness)
-老抽 (Dark Soy Sauce)	20ml - 30ml	提供酱红色 (For color)
-料酒 (Cooking Wine)	50ml	去腥 (For removing odor)
-八角 (Star Anise)	1 个	增香 (Aromatics)
-桂皮 (Cinnamon Stick)	1 根	增香 (Aromatics)
-热水 (Hot Water)适量需完全没过肉块
-
 
 ## 5. Accountability Matrix
 
@@ -81,7 +71,7 @@ This procedure applies to the MITT Final Assignment project. The scope includes:
 
 ## 6. Process Steps
 
-> *This section is to be completed by Team Members B, C, and D.*
+---
 
 ## 6.1 Material Standards and Ingredient Preparation (Lead: Dongjun Li)
 **Scope:** This stage focuses on raw material inspection, precision cutting, and the "Mise en Place" (preparation of all seasonings) before any thermal processing begins.
