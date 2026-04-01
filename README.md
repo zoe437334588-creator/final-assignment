@@ -1,6 +1,6 @@
 # final-assignment
 
-# Standard Operating Procedure: Authentically Braised Pork Belly (Hong Shao Rou)
+# 1. Standard Operating Procedure: Authentically Braised Pork Belly (Hong Shao Rou)
 
 **Document ID:** SOP-HSR-001  
 **Effective Date:** April 2, 2026  
@@ -8,39 +8,39 @@
 
 ---
 
-## 1. Approval Table
+## 2. Approval Table
 
 | Role | Name | Signature | Date |
 | :--- | :--- | :--- | :--- |
 | **Prepared by** | Jie Zhuang | _Signed_ | 2026-03-31 |
-| **Reviewed by** | [Insert Member B] | | 2026-04-01 |
+| **Reviewed by** | Yuwen Nie | | 2026-04-01 |
 | **Approved by** | [Insert Instructor] | | |
 
 ---
 
-## 2. Purpose
+## 3. Purpose
 
 The purpose of this Standard Operating Procedure (SOP) is to formalize and standardize the cooking process of traditional Braised Pork Belly. By implementing precise measurements and temperature controls, this document ensures the reproducibility of a high-quality product characterized by a glossy red glaze and tender texture, while ensuring food safety compliance.
 
 ---
 
-## 3. Scope and Objectives
+## 4. Scope and Objectives
 
-### 3.1 Scope
+### 4.1 Scope
 This SOP applies to the entire lifecycle of dish preparation, including:
 * Selection and inspection of raw pork belly and spices.
 * Pre-treatment processes (cutting and blanching).
 * Core culinary techniques (caramelization and braising).
 * Final quality control and plating.
 
-### 3.2 Objectives
+### 4.2 Objectives
 * Achieve a consistent "Glossy Amber-Red" visual result.
 * Ensure meat tenderness (the "Chopstick Test").
 * Maintain food safety standards (Internal temp ≥ 165°F).
 
 ---
 
-## 4. Accountability Matrix
+## 5. Accountability Matrix
 
 | Team Member | Functional Role | Documentation & Process Responsibilities |
 | :--- | :--- | :--- |
@@ -51,7 +51,7 @@ This SOP applies to the entire lifecycle of dish preparation, including:
 
 ---
 
-## 5. Process Steps
+## 6. Process Steps
 
 > *This section is to be completed by Team Members B, C, and D.*
 
@@ -62,7 +62,7 @@ This SOP applies to the entire lifecycle of dish preparation, including:
 
 ---
 
-## 6. Revision History
+## 7. Revision History
 
 | Version | Date | Description of Change | Author |
 | :--- | :--- | :--- | :--- |
