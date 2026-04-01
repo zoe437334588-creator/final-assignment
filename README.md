@@ -2,9 +2,16 @@
 
 # 1. Standard Operating Procedure: Authentically Braised Pork Belly (Hong Shao Rou)
 
-**Document ID:** SOP-HSR-001  
-**Effective Date:** April 2, 2026  
-**Version:** 1.0  
+**Document ID:**
+ SOP-HSR-2026-001  
+**Organization:**
+ MITT NSA Group - Culinary Tech Division  
+**Address:**
+ 130 Henlow Bay, Winnipeg, MB  
+**Version:**
+ V1.0  
+**Effective Date:**
+ April 2, 2026
 
 ---
 
@@ -20,18 +27,27 @@
 
 ## 3. Purpose
 
-The purpose of this Standard Operating Procedure (SOP) is to formalize and standardize the cooking process of traditional Braised Pork Belly. By implementing precise measurements and temperature controls, this document ensures the reproducibility of a high-quality product characterized by a glossy red glaze and tender texture, while ensuring food safety compliance.
+The purpose of this document is to provide a standardized technical procedure for the creation of traditional Braised Pork Belly. It aims to:
+* **Standardize Quality:**
+ Ensure consistent "melt-in-mouth" texture and glossy amber-red appearance.
+* **Define Inputs:**
+ Establish a clear list of required materials (Inputs) for consistent quality.
+* **Safety Compliance:**
+ Ensure the final product meets food safety temperatures (Internal temp ≥ 165°F).
 
 ---
 
 ## 4. Scope and Objectives
 
 ### 4.1 Scope
-This SOP applies to the entire lifecycle of dish preparation, including:
-* Selection and inspection of raw pork belly and spices.
-* Pre-treatment processes (cutting and blanching).
-* Core culinary techniques (caramelization and braising).
-* Final quality control and plating.
+This procedure applies to the MITT Final Assignment project. The scope includes:
+**Inputs:** Specific measurements for 500g of premium pork belly and auxiliary spices.
+
+**Pre-treatment:** Requirements for cutting precision and the cold-water blanching process.
+
+**Production:** The core "SOP" from caramelization (sugar-coloring) to the 60-minute slow-braising phase.
+ 
+**Post-Production:** Plating aesthetics and recommended flavor pairings.
 
 ### 4.2 Objectives
 * Achieve a consistent "Glossy Amber-Red" visual result.
