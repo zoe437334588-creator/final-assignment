@@ -141,8 +141,8 @@ Accurately measure 60g of rock sugar, 50ml of cooking wine, and the required soy
 
 ---
 
-### 6.2.2 Troubleshooting and "Disaster Recovery" Matrix
-In the event of a "system failure" (cooking error), use the following matrix to restore the product to standard:
+### 6.2.2 Troubleshooting and Disaster Recovery
+In the event of a cooking error, use the following matrix to restore the product to standard:
 
 | Symptom (Incident) | Probable Root Cause | Corrective Action (Solution) |
 | :--- | :--- | :--- |
@@ -153,7 +153,7 @@ In the event of a "system failure" (cooking error), use the following matrix to 
 
 ---
 
-### 6.3 Final Inspection Checklist (UAT - User Acceptance Testing)
+### 6.3 Plating Inspection Checklist
 Before the product is "released" to the table, it must pass this final audit:
 
 - [ ] **Safety Audit:** Internal temperature verified at **≥ 165°F** using a digital probe thermometer.
