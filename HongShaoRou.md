@@ -175,7 +175,6 @@ Accurately measure 60g of rock sugar, 50ml of cooking wine, 50ml of soy sauce, a
 3. **Observation:** Stir the pork constantly to ensure every cube is evenly coated. 
 4. **Why:** This step is **critical because** it triggers the rapid evaporation of excess water, concentrating the sugars and fats to create a professional "mirror glaze" (Viscosity control).
 
-> *Figure 4: The sauce thickening into a glossy amber-red glaze during the reduction phase.*
 
 **Step 6: Plating and Aesthetic Review**
 1. **Tool:** Pre-warmed **ceramic serving bowl** and **clean paper towels**.
