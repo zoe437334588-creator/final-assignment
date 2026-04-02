@@ -17,13 +17,13 @@
 
 ## 2. Approval Table
 
-| Role | Name | Signature | Date |
-| :--- | :--- | :--- | :--- |
-| **Prepared by** | Jie Zhuang | _Signed_ | 2026-03-31 |
-| **Prepared by** | Qianyi Wen | _Signed_ | 2026-04-1 |
-| **Prepared by** | Dongjun Li | _Signed_ | 2026-04-1 |
-| **Reviewed by** | Yuwen Nie | | 2026-04-01 |
-| **Approved by** | Instructor | | |
+| Role | Name | Date |
+| :--- | :--- | :--- |
+| **Prepared by** | Jie Zhuang | 2026-03-31 |
+| **Prepared by** | Qianyi Wen | 2026-04-1 |
+| **Prepared by** | Dongjun Li | 2026-04-1 |
+| **Reviewed by** | Yuwen Nie | 2026-04-01 |
+| **Approved by** | Instructor [Pending] | |
 
 ---
 
