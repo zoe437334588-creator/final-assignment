@@ -23,7 +23,7 @@
 | **Prepared by** | Qianyi Wen | _Signed_ | 2026-04-1 |
 | **Prepared by** | Dongjun Li | _Signed_ | 2026-04-1 |
 | **Reviewed by** | Yuwen Nie | | 2026-04-01 |
-| **Approved by** | [Insert Instructor] | | |
+| **Approved by** | Instructor | | |
 
 ---
 
