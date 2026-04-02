@@ -163,6 +163,12 @@ Before the product is "released" to the table, it must pass this final audit:
    
 ## 7. Revision History
 
-| Version | Date | Description of Change | Author |
+| Version | Date | Author | Description of Change |
 | :--- | :--- | :--- | :--- |
-| **1.0** | 2026-03-31 | Initial creation of the finalized SOP framework. | Jie Zhuang |
+| **0.1** | 2026-03-31 | **Jie Zhuang** | Initial draft and project scope definition. |
+| **0.5** | 2026-04-01 | **Dongjun Li** | Defined ingredient standards and pre-treatment steps. |
+| **1.0** | 2026-04-01 | **Qianyi Wen** | Integrated core cooking techniques and visual media. |
+| **1.5** | 2026-04-01 | **Yuwen Nie** | Added quality control metrics and troubleshooting guide. |
+| **2.0** | 2026-04-01 | **Teams** | Finalized SOP framework and formatting. |
+
+
