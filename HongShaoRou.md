@@ -73,31 +73,74 @@ This procedure applies to the MITT Final Assignment project. The scope includes:
 
 ---
 
-## 6.1 Material Standards and Ingredient Preparation (Lead: Dongjun Li)
-**Scope:** This stage focuses on raw material inspection, precision cutting, and the "Mise en Place" (preparation of all seasonings) before any thermal processing begins.
+## 6.1 Material Selection and Pre-treatment (Lead: Dongjun Li)
 
-### 6.1.1 Raw Material Selection
-The quality of the final dish depends on the initial selection of the pork.
-*   **Pork Belly Selection:** Select 500g of fresh pork belly with at least five distinct layers of fat and lean meat. This specific structure is **essential because** the alternating fat layers provide the necessary oil for the "Searing" stage, while the lean meat absorbs the flavors during braising.
-*   **Inspection Tool:** Digital kitchen scale (Accuracy: ±1g).
+**Scope:** This stage defines the technical standards for raw material inspection, precision cutting, and "Mise en Place" (seasoning preparation) before the cooking process begins.
+
+---
+
+### 6.1.1 Raw Material Selection and Standards
+The quality of the final braised pork belly depends on the initial selection and weighing of the pork. 
+
+*   **Selection Standard:** Select 500g of fresh pork belly with at least five distinct, alternating layers of fat and lean meat. This specific fat-to-lean ratio is **essential because** it provides the natural oils for the "Searing" stage while ensuring a melt-in-mouth texture during braising.
+*   **Inspection Tool:** A digital kitchen scale (Accuracy: ±1g) must be used to verify the mass. Precise weighing is **critical because** the seasoning ratios are calculated based on a 500g pork-to-sauce foundation.
+
+![Selected Pork Belly](pork_belly.jpg)
+*Figure 6.1-1: Inspecting raw pork belly layers for optimal fat-to-lean distribution. (Source: [zhugewala via Pexels](https://www.pexels.com/zh-cn/photo/2676932/))*
+
+![Digital Scale](digital_scale.jpg)
+*Figure 6.2-2: Verifying the mass using a digital scale to ensure consistent seasoning ratios. (Source: [Gustavo Fring via Pexels](https://www.pexels.com/zh-cn/photo/5622193/))*
+
+---
 
 ### 6.1.2 Pre-treatment Procedures
 
 **Step 1: Precision Meat Cubing**
-Place the raw pork belly on a **heavy-duty cutting board** and use a **sharp chef’s knife** to cut it into uniform 2cm x 2cm cubes. This standardization is **critical because** it allows for even heat distribution in the subsequent "Blanching" and "Braising" steps. Maintaining uniform size ensures that all pieces reach the target internal temperature of 165°F simultaneously.
+Place the raw pork belly on a **heavy-duty bamboo cutting board** and use a **sharp chef’s knife** to cut it into uniform 2cm x 2cm cubes. This standardization is **critical because** it allows for even heat distribution in the subsequent "Blanching" and "Braising" steps. Maintaining uniform size ensures that all pieces reach the target internal temperature of 165°F simultaneously.
 
-> *Figure 1: Preparing 500g of pork belly into uniform 2cm cubes.*
+![Bamboo Cutting Board](board.jpg)
+*Figure 6.1-3: A stable bamboo cutting board used to provide a safe, non-slip surface. (Source: [Engin Akyurt via Pexels](https://www.pexels.com/zh-cn/photo/7415264/))*
 
-**Step 2: Aromatic and Spice Preparation (Mise en Place)**
-Wash and prepare the following aromatics: slice 50g of ginger, tie 3-4 scallions into a knot, and select 1 whole star anise and 1 cinnamon stick. Pre-cutting the ginger and knotting the scallions is **important because** it maximizes the surface area for flavor release when the Process Lead adds them to the pot later. 
+![Chef's Knife](knife.jpg)
+*Figure 6.1-4: A sharp chef's knife required for executing clean cuts without damaging meat fibers. (Source: [Nathan J Hilton via Pexels](https://www.pexels.com/zh-cn/photo/19199238/))*
 
-> *Figure 2: The prepared aromatics tray (ginger, scallions, star anise, cinnamon) ready for cooking.*
+![Uniform Pork Cubes](pork_cubes.jpg)
+*Figure 6.1-5: Final output of Step 1: Pork belly cut into uniform 2cm cubes. (Source: [asassyspoon.com](https://asassyspoon.com/chicharrones/))*
+
+
+**Step 2: Aromatic and Spice Preparation**
+Wash and prepare the following aromatics: slice 50g of ginger, tie 3-4 scallions into a knot, and select 1 whole star anise and 1 cinnamon stick. Pre-cutting the ginger and knotting the scallions is **important because** it maximizes the surface area for flavor release when the Process Lead adds them to the pot later.
+
+![Ginger Preparation](ginger.jpg)
+*Figure 6.1-6: Sliced ginger prepared to neutralize raw odors during braising. (Source: [Pixabay via Pexels](https://www.pexels.com/zh-cn/photo/161556/))*
+
+![Scallion Preparation](scallions.jpg)
+*Figure 6.1-7: Cleaning and knotting 3-4 scallions for aromatic enhancement. (Source: [Anna Tarazevich via Pexels](https://www.pexels.com/zh-cn/photo/7251865/))*
+
+![Star Anise](star_anise.jpg)
+*Figure 6.1-8: Selecting whole star anise to provide the signature licorice aroma. (Source: [Raul Kozenevski via Pexels](https://www.pexels.com/zh-cn/photo/3011280/))*
+
+![Cinnamon Stick](cinnamon.jpg)
+*Figure 6.1-9: Selecting a cinnamon stick to add sweet, warm undertones to the dish. (Source: [Anna Pou via Pexels](https://www.pexels.com/zh-cn/photo/8329248/))*
+
 
 **Step 3: Measuring Liquid and Solid Seasonings**
-Accurately measure 60g of rock sugar, 50ml of cooking wine, and the required soy sauce using **graduated measuring cups and a scale**. Having these measured in advance is a **vital safety and quality control step** as it prevents the Process Lead from burning the sugar or spices while searching for ingredients during the high-heat "Caramelizing" phase.
+Accurately measure 60g of rock sugar, 50ml of cooking wine, 50ml of soy sauce, and a small portion of vegetable oil using **graduated measuring cups** and a **digital scale**. Preparing these materials in advance is a **critical safety and quality control step**, as it prevents the Process Lead from accidentally burning the sugar or spices while searching for ingredients during the high-heat "Caramelizing" phase.
 
-> *Figure 3: All measured seasonings organized for a seamless handoff to the Process Lead.*
+![Soy Sauce Prep](soy_sauce.jpg)
+*Figure 6.1-10: Measuring soy sauce as the primary savory and color base. (Source: [THE GATE](https://thegate12.com/cn/article/172))*
+
+![Measuring Cup Tool](measuring_cup.jpg)
+*Figure 6.1-11: Using a graduated cup for precise volume control of liquid seasonings. (Source: [Steve Johnson via Pexels](https://www.pexels.com/zh-cn/photo/1005731/))*
+
+![Rock Sugar Weighing](rock_sugar.jpg)
+*Figure 6.1-12: Weighing 60g of rock sugar to achieve a professional glossy glaze. (Source: [Eva Bronzini via Pexels](https://www.pexels.com/zh-cn/photo/5988342/))*
+
+![Pouring Oil](oil.jpg)
+*Figure 13: Preparing vegetable oil as the essential medium for caramelization. (Source: [Max Avans via Pexels](https://www.pexels.com/zh-cn/photo/5056853/))*
+
 ---
+
 ### Step 1: Blanching (Cleaning the Meat)
   1. Put the pork cubes into a pot with cold water.
   2. Add 50g of 2 slices of ginger. and 50ml cooking wine.
