@@ -119,11 +119,47 @@ Accurately measure 60g of rock sugar, 50ml of cooking wine, and the required soy
   2. Add 20ml dark soy sauce (for color) and 60ml light soy sauce (for salt).
   3. Pour in boiling water until the meat is just submerged.
   4. Cover with a lid. Reduce heat to low and simmer for 45–60 minutes.
-  
-### Step 5: Reduction (The Glaze)
-  1. Remove the lid and discard the large aromatics (ginger/scallions).
-  2. Turn the heat to high to reduce the sauce.
-  3. Stir constantly until the sauce thickens into a shiny glaze that coats the meat.
+
+## 6.2 Quality Control and Finalization (Lead: Yuwen Nie)
+
+**Scope:** This final stage focuses on the "Reduction" phase to achieve the target glaze, followed by a rigorous Quality Assurance (QA) check and troubleshooting protocol to ensure the final "output" meets all safety and aesthetic standards.
+
+### 6.2.1 Final Execution: Reduction and Plating
+
+**Step 5: High-Heat Reduction (The Glazing Phase)**
+1. **Tool:** Heat-resistant **silicone spatula** or **tongs**.
+2. **Action:** Remove the lid and discard the large aromatics (ginger slices and scallion knots). Increase the heat to **high**.
+3. **Observation:** Stir the pork constantly to ensure every cube is evenly coated. 
+4. **Why:** This step is **critical because** it triggers the rapid evaporation of excess water, concentrating the sugars and fats to create a professional "mirror glaze" (Viscosity control).
+
+> *Figure 4: The sauce thickening into a glossy amber-red glaze during the reduction phase.*
+
+**Step 6: Plating and Aesthetic Review**
+1. **Tool:** Pre-warmed **ceramic serving bowl** and **clean paper towels**.
+2. **Action:** Carefully transfer the pork to the bowl. Use a paper towel to wipe any sauce splashes from the rim.
+3. **Why:** Maintaining a clean rim is **important because** it ensures "restaurant-grade" presentation and prevents sticky residue from affecting the dining experience.
+
+---
+
+### 6.2.2 Troubleshooting and "Disaster Recovery" Matrix
+In the event of a "system failure" (cooking error), use the following matrix to restore the product to standard:
+
+| Symptom (Incident) | Probable Root Cause | Corrective Action (Solution) |
+| :--- | :--- | :--- |
+| **Meat is tough/rubbery** | Insufficient braising time or heat was too high. | Add 100ml boiling water and simmer on low for an additional 15 mins. |
+| **Sauce is thin/watery** | Incomplete reduction phase. | Increase heat to high and stir constantly for 3–5 mins until glaze forms. |
+| **Flavor is too salty** | Excess evaporation or measurement error. | Add 2 thick slices of **raw potato**; simmer for 5 mins to absorb salt, then remove. |
+| **Color is pale/grey** | Failed caramelization or lack of dark soy sauce. | Add 5ml of dark soy sauce and toss on high heat to "patch" the color. |
+
+---
+
+### 6.3 Final Inspection Checklist (UAT - User Acceptance Testing)
+Before the product is "released" to the table, it must pass this final audit:
+
+- [ ] **Safety Audit:** Internal temperature verified at **≥ 165°F** using a digital probe thermometer.
+- [ ] **The "Chopstick Test":** Meat can be pierced with a chopstick with zero resistance (Indicates successful collagen breakdown).
+- [ ] **Visual Audit:** Glossy, amber-red finish with no charred or black spots.
+- [ ] **Aesthetic Audit:** Plating is clean and free of rim splashes.
    
 ## 7. Revision History
 
