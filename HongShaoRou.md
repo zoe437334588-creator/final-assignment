@@ -9,7 +9,7 @@
 **Address:**
  130 Henlow Bay, Winnipeg, MB  
 **Version:**
- V1.0  
+ V2.0  
 **Effective Date:**
  April 2, 2026
 
@@ -22,7 +22,7 @@
 | **Prepared by** | Jie Zhuang | 2026-03-31 |
 | **Prepared by** | Qianyi Wen | 2026-04-1 |
 | **Prepared by** | Dongjun Li | 2026-04-1 |
-| **Reviewed by** | Yuwen Nie | 2026-04-01 |
+| **Reviewed by** | Yuwen Nie | 2026-04-1 |
 | **Approved by** | Instructor [Pending] | |
 
 ---
@@ -181,7 +181,8 @@ Accurately measure 60g of rock sugar, 50ml of cooking wine, 50ml of soy sauce, a
 1. **Tool:** Pre-warmed **ceramic serving bowl** and **clean paper towels**.
 2. **Action:** Carefully transfer the pork to the bowl. Use a paper towel to wipe any sauce splashes from the rim.
 3. **Why:** Maintaining a clean rim is **important because** it ensures "restaurant-grade" presentation and prevents sticky residue from affecting the dining experience.
-
+![Plating](Plating.jpg)
+*Figure 6.2-1: A plating example. (Source: [nipic.com](https://www.nipic.com/show/41867458.html))*
 ---
 
 ### 6.2.2 Troubleshooting and Disaster Recovery
